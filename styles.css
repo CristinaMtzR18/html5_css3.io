@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(175, 224, 224);
+}
+.cuadrado{
+    width: 100px;
+    height: 100px;
+    background: blue;
+}
+
+.cuadrado:hover{
+    background: red;
+    border-top-right-radius: 50px;
+}
+
+.cuadrado:hover{
+    cursor:context-menu;
+}
